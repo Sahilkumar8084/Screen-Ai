@@ -16,7 +16,8 @@
 
 <br/>
 
-![ScreenAI Demo](https://placehold.co/900x500/0a0a0f/a78bfa?text=👁️+ScreenAI+—+Your+AI+Pair+Programmer)
+![ScreenAI Demo](https://github.com/Sahilkumar8084/Screen-Ai/blob/main/Screen%20Recording%202026-04-21%20190213.gif)
+
 
 </div>
 
